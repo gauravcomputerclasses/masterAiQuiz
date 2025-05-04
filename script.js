@@ -136,7 +136,7 @@ class Quiz {
   }
   sendResult(name, score) {
     const scriptURL =
-      "https://script.google.com/macros/s/AKfycbyB43fjUiG3UoBzmInTfGyXr-gF1V229ip-GUdLZx3uExblY08IWQzOPOyURsHVtziooQ/exec"; // yahan apna actual URL daalo
+      "https://script.google.com/macros/s/AKfycbwOrxjGsW1GBZgm8UaYCBrGp_ggi_qtdqkhJ53VNJzD/dev";
 
     const data = `name=${encodeURIComponent(name)}&score=${score}`;
 
