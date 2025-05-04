@@ -130,8 +130,30 @@ class Quiz {
     </div>
 `;
     questionDiv.innerHTML = newDom;
+    this.sendResult(name, this.score);
     submitBtn.className = "hidden";
     finish.className = "hidden";
+  }
+  sendResult(name, score) {
+    const scriptURL =
+      "https://script.google.com/macros/s/AKfycbyB43fjUiG3UoBzmInTfGyXr-gF1V229ip-GUdLZx3uExblY08IWQzOPOyURsHVtziooQ/exec"; // yahan apna actual URL daalo
+
+    const data = `name=${encodeURIComponent(name)}&score=${score}`;
+
+    fetch(scriptURL, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+      body: data,
+    })
+      .then((response) => response.text())
+      .then((result) => {
+        console.log("✅ Submitted!", result);
+      })
+      .catch((error) => {
+        console.error("❌ Failed to submit:", error);
+      });
   }
 }
 
