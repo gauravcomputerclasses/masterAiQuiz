@@ -1,0 +1,114 @@
+{
+  "quiz": [
+    {
+      "question": "1. What does AI stand for?",
+      "options": [
+        "Artificial Intelligence",
+        "Automated Interface",
+        "Advanced Internet",
+        "Applied Innovation"
+      ],
+      "answer": "Artificial Intelligence",
+      "explanation": "AI stands for Artificial Intelligence, which refers to machines that simulate human intelligence."
+    },
+    {
+      "question": "2. What is the main function of Generative AI?",
+      "options": [
+        "Predicting stock markets",
+        "Generating new content like text or images",
+        "Storing big data",
+        "Browsing the web"
+      ],
+      "answer": "Generating new content like text or images",
+      "explanation": "Generative AI is designed to create new content such as text, images, or code based on patterns it has learned."
+    },
+    {
+      "question": "3. Which of the following is NOT a form of content writing?",
+      "options": [
+        "Blog Post",
+        "Email Newsletter",
+        "Math Formula",
+        "Product Description"
+      ],
+      "answer": "Math Formula",
+      "explanation": "A math formula is not a form of content writing, which focuses on text meant to inform, persuade, or engage."
+    },
+    {
+      "question": "4. What is ChatGPT primarily used for?",
+      "options": [
+        "Image editing",
+        "Text-based conversations",
+        "Video editing",
+        "Spreadsheet calculations"
+      ],
+      "answer": "Text-based conversations",
+      "explanation": "ChatGPT is mainly used for generating human-like text responses in conversations or writing tasks."
+    },
+    {
+      "question": "5. Which of these is an example of a creative prompt?",
+      "options": [
+        "‘Tell me a joke’",
+        "‘Create an exam timetable’",
+        "‘Define photosynthesis’",
+        "‘Write a story about a flying robot’"
+      ],
+      "answer": "‘Write a story about a flying robot’",
+      "explanation": "‘Write a story about a flying robot’ is a creative prompt because it asks for a fictional and imaginative output."
+    },
+    {
+      "question": "6. What is a prompt in ChatGPT?",
+      "options": [
+        "A code used for programming",
+        "An instruction given to an AI",
+        "An AI software tool",
+        "A type of virus"
+      ],
+      "answer": "An instruction given to an AI",
+      "explanation": "A prompt is a user's instruction or query given to an AI to receive a specific kind of response."
+    },
+    {
+      "question": "7. Which of these is an example of a product description?",
+      "options": [
+        "Top 10 Study Tips for Students",
+        "Add two numbers in Python",
+        "Comfortable shoes made with eco-material",
+        "Define photosynthesis simply"
+      ],
+      "answer": "Comfortable shoes made with eco-material",
+      "explanation": "Describing a product like 'comfortable shoes made with eco-material' is an example of a product description."
+    },
+    {
+      "question": "8. What tone is suitable for a social media caption promoting a yoga mat?",
+      "options": [
+        "Motivational and friendly",
+        "Rude and sarcastic",
+        "Formal and strict",
+        "Technical and dry"
+      ],
+      "answer": "Motivational and friendly",
+      "explanation": "A motivational and friendly tone suits yoga product promotion because it encourages and inspires beginners."
+    },
+    {
+      "question": "9. Which of these is a valid component of a good prompt?",
+      "options": [
+        "Audience, Format, Tone",
+        "Font, Color, Logo",
+        "Price, Brand, Size",
+        "Time, Date, Location"
+      ],
+      "answer": "Audience, Format, Tone",
+      "explanation": "A good prompt typically includes the audience, format, and tone to guide the AI in generating accurate content."
+    },
+    {
+      "question": "10. What kind of email tone should you use when inviting professionals to a financial webinar?",
+      "options": [
+        "Formal and strict",
+        "Casual and funny",
+        "Professional yet friendly",
+        "Harsh and demanding"
+      ],
+      "answer": "Professional yet friendly",
+      "explanation": "When addressing professionals in a webinar invitation, the tone should be professional but still warm and inviting."
+    }
+  ]
+}
