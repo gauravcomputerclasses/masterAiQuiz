@@ -1,0 +1,114 @@
+{
+  "quiz": [
+    {
+      "question": "1. What is a prompt in the context of AI tools like ChatGPT?",
+      "options": [
+        "A design template",
+        "A programming language",
+        "An instruction or input given to the AI",
+        "A type of error message"
+      ],
+      "answer": "An instruction or input given to the AI",
+      "explanation": "A prompt is a command or instruction you give to an AI to generate a specific type of output."
+    },
+    {
+      "question": "2. Which of the following is MOST important for making a prompt effective?",
+      "options": [
+        "Being vague and open-ended",
+        "Using difficult language",
+        "Being clear and specific",
+        "Making it as short as possible"
+      ],
+      "answer": "Being clear and specific",
+      "explanation": "Effective prompts are clear and specific so that the AI can understand and deliver accurate results."
+    },
+    {
+      "question": "3. What does adding a format and word limit to a prompt help with?",
+      "options": [
+        "It limits creativity",
+        "It improves spelling",
+        "It guides the structure of the output",
+        "It prevents the AI from answering"
+      ],
+      "answer": "It guides the structure of the output",
+      "explanation": "Format and word limits help define the shape and size of the content the AI should produce."
+    },
+    {
+      "question": "4. Why should you define the target audience in your prompt?",
+      "options": [
+        "To include random words",
+        "To improve font size",
+        "To help the AI choose tone and content suitable for that group",
+        "To reduce word count"
+      ],
+      "answer": "To help the AI choose tone and content suitable for that group",
+      "explanation": "Mentioning the audience allows the AI to adjust the tone, vocabulary, and examples accordingly."
+    },
+    {
+      "question": "5. What does the 'tone' in a prompt affect?",
+      "options": [
+        "Font style",
+        "Writing mood and personality",
+        "Word count",
+        "Language translation"
+      ],
+      "answer": "Writing mood and personality",
+      "explanation": "Tone affects how the message feels—friendly, formal, funny, etc."
+    },
+    {
+      "question": "6. What does adding a 'purpose or goal' to a prompt help achieve?",
+      "options": [
+        "It adds formatting",
+        "It clarifies what the AI should help the reader do or understand",
+        "It translates the output",
+        "It makes the prompt shorter"
+      ],
+      "answer": "It clarifies what the AI should help the reader do or understand",
+      "explanation": "Stating a goal helps the AI focus on delivering content that drives action or understanding."
+    },
+    {
+      "question": "7. What is the benefit of asking the AI to rewrite the same prompt for different platforms (e.g., Facebook, Instagram)?",
+      "options": [
+        "To make it more confusing",
+        "To test grammar rules",
+        "To practice platform-specific writing",
+        "To reduce creativity"
+      ],
+      "answer": "To practice platform-specific writing",
+      "explanation": "Different platforms need different formats, tones, and lengths—rewriting teaches adaptation."
+    },
+    {
+      "question": "8. What happens when you keep editing and refining a prompt?",
+      "options": [
+        "It becomes less useful",
+        "It confuses the AI",
+        "It leads to more precise and useful responses",
+        "It increases file size"
+      ],
+      "answer": "It leads to more precise and useful responses",
+      "explanation": "Refining a prompt improves the quality and accuracy of the AI's output."
+    },
+    {
+      "question": "9. Which prompt is most complete and detailed?",
+      "options": [
+        "Write about healthy eating.",
+        "Write a blog post.",
+        "Write a 150-word blog post for teenagers about healthy eating.",
+        "Write an essay."
+      ],
+      "answer": "Write a 150-word blog post for teenagers about healthy eating.",
+      "explanation": "It includes format, word limit, topic, and target audience—making it a well-structured prompt."
+    },
+    {
+      "question": "10. In Activity 2, what was the purpose of editing the email prompt multiple times?",
+      "options": [
+        "To translate into many languages",
+        "To shorten the email only",
+        "To see how small prompt edits change the AI’s output",
+        "To test grammar knowledge"
+      ],
+      "answer": "To see how small prompt edits change the AI’s output",
+      "explanation": "This shows how even small prompt changes can result in very different responses from the AI."
+    }
+  ]
+}
